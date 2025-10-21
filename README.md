@@ -37,7 +37,7 @@
 
 <div align="center" style="padding: 30px">
 
-![Garv's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Garv767&theme=github-compact&hide_border=true)
+![Garv's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Garv767&theme=github-compact&hide_border=false)
 
 </div>
 
