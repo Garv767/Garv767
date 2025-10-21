@@ -124,7 +124,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Garv767&theme=onedark&column=-1)
+![](https://github-profile-trophy.vercel.app/?username=Garv767&theme=tokyonight&column=-1)
 
 </div>
 
