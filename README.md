@@ -3,7 +3,7 @@
 <div align="center">
   <img 
     src="https://Garv767.github.io/Garv767/assets/Garv Rahut.jpg" 
-    alt="Garv Rahut animation" 
+    alt="Garv Rahut" 
     style="width: 800px; height: auto;" 
   />
 </div>
@@ -22,14 +22,13 @@
       </h3>
       <h4>About</h4>
       <ul style="list-style: none; padding-left: 0;">
-        <li>🔭 Currently working on <strong><a href="https://github.com/Garv767/ColdUML">ColdUML</a></strong> - A code 2 diagram generator</li>
-        <li>🌱 Exploring <strong>p5js</strong> for creating art on the web</li>
-        <li>👨‍💻 Building full-stack applications with <strong>MERN Stack</strong></li>
+        <li>🔭 Currently working on <strong><a href="https://github.com/Garv767/Unfugly">Unfugly</a></strong> - A web extension for SRM Academia</li>
         <li>🚀 Deploying applications on <strong>Vercel</strong>, <strong>Netlify</strong>, and <strong>Render</strong></li>
       </ul>
       <h4>Contact</h4>
       <ul style="list-style: none; padding-left: 0;">
         <li>📫 <strong>Email</strong>: garvrahut@gmail.com</li>
+        <li>🧑‍💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/garv767/"> garv767</a></li>
       </ul>
     </td>
   </tr>
@@ -44,7 +43,7 @@
 
 <hr>
 
-## Table of Tech
+## Tech stack
 
 <table align="center" style="width: 100%; min-width: 600px; border-spacing: 15px;">
   <tr>
@@ -53,10 +52,7 @@
     </td>
     <td style="width: 70%; vertical-align: top; padding: 10px;">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />      
     </td>
   </tr>
   <tr>
@@ -65,7 +61,6 @@
     </td>
     <td style="width: 70%; vertical-align: top; padding: 10px;">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js" />
       <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" alt="JWT" />
     </td>
   </tr>
@@ -74,9 +69,7 @@
       <strong>Databases</strong>
     </td>
     <td style="width: 70%; vertical-align: top; padding: 10px;">
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
     </td>
   </tr>
   <tr>
@@ -86,7 +79,6 @@
     <td style="width: 70%; vertical-align: top; padding: 10px;">
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
     </td>
@@ -99,7 +91,6 @@
       <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
       <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white" alt="Render" />
       <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
     </td>
   </tr>
   <tr>
@@ -107,7 +98,6 @@
       <strong>Tools</strong>
     </td>
     <td style="width: 70%; vertical-align: top; padding: 10px;">
-      <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash Script" />
       <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
     </td>
@@ -117,7 +107,7 @@
 ---
 
 
-## Stats of Obsession 
+## Stats
 
 <div align="center">
 
