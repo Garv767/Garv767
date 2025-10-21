@@ -2,7 +2,7 @@
 
 <div align="center">
   <img 
-    src="https://Garv767.github.io/Garv767/assets/Garv Rahut.png" 
+    src="https://github.com/Garv767/Garv767/blob/8cbff7680b6cc93eee0db2538783b7478140e8bb/assets/Garv%20Rahut.png" 
     alt="Garv Rahut" 
     style="width: 800px; height: auto;" 
   />
