@@ -111,11 +111,11 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garv767&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Garv767&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Garv767&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Garv767&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Garv767&theme=aura&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garv767&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Garv767&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Garv767&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Garv767&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Garv767&theme=blueberry&utcOffset=8)
 
 </div>
 
