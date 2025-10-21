@@ -10,29 +10,24 @@
 
 <h3 align="center" style="border-bottom: none; margin: 10px 0;">Hi, I'm Garv</h3>
 
-<table align="center" style="width: 100%; min-width: 600px; border: none; border-collapse: collapse;">
-  <tr>
-    <td>
-      <h3 align="center">
-        Passionate <strong>Software Engineer</strong> and <strong>Web Developer</strong>
-        <br>
-        <em>Creating the unimaginable</em>
-        <br>
-        <hr>
-      </h3>
-      <h4>About</h4>
-      <ul style="list-style: none; padding-left: 0;">
-        <li>🔭 Currently working on <strong><a href="https://github.com/Garv767/Unfugly">Unfugly</a></strong> - A web extension for SRM Academia</li>
-        <li>🚀 Deploying applications on <strong>Vercel</strong>, <strong>Netlify</strong>, and <strong>Render</strong></li>
-      </ul>
-      <h4>Contact</h4>
-      <ul style="list-style: none; padding-left: 0;">
-        <li>📫 <strong>Email</strong>: garvrahut@gmail.com</li>
-        <li>🧑‍💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/garv767/"> garv767</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h3 align="center">
+  Passionate <strong>Software Engineer</strong> and <strong>Web Developer</strong>
+  <br>
+  <!-- <em>Creating the unimaginable</em>-->
+  <br>
+  <hr>
+</h3>
+<h4>About</h4>
+<ul style="list-style: none; padding-left: 0;">
+  <li>🔭 Currently working on <strong><a href="https://github.com/Garv767/Unfugly">Unfugly</a></strong> - A web extension for SRM Academia</li>
+  <li>🚀 Deploying applications on <strong>Vercel</strong>, <strong>Netlify</strong>, and <strong>Render</strong></li>
+</ul>
+<h4>Contact</h4>
+<ul style="list-style: none; padding-left: 0;">
+  <li>📫 <strong>Email</strong>: garvrahut@gmail.com</li>
+  <li>🧑‍💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/garv767/"> garv767</a></li>
+</ul>
+
 
 
 <div align="center" style="padding: 30px">
