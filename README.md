@@ -17,18 +17,23 @@
   <br>
   <hr>
 </h3>
-<h4>About</h4>
+
+## About
+
 <ul style="list-style: none; padding-left: 0;">
   <li>🔭 Currently working on <strong><a href="https://github.com/Garv767/Unfugly">Unfugly</a></strong> - A web extension for SRM Academia</li>
   <li>🚀 Deploying applications on <strong>Vercel</strong>, <strong>Netlify</strong>, and <strong>Render</strong></li>
 </ul>
-<h4>Contact</h4>
+
+<hr>
+
+## Contact
 <ul style="list-style: none; padding-left: 0;">
   <li>📫 <strong>Email</strong>: garvrahut@gmail.com</li>
   <li>🧑‍💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/garv767/"> garv767</a></li>
 </ul>
 
-
+<hr>
 
 <div align="center" style="padding: 30px">
 
@@ -125,10 +130,10 @@
 
 <hr>
 
-<div align="center">
+<!--<div align="center">
 
 [![](https://holopin.me/Garv767)](https://holopin.io/@Garv767)
 
-</div>
+</div>-->
 
 ---
