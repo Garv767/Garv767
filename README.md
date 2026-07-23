@@ -144,6 +144,6 @@ A full-stack crime intelligence system for law enforcement officers to track inc
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Garv767&layout=compact&theme=blueberry)
+![](./assets/trophy.svg)
 
 </div>
