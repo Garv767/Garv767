@@ -142,8 +142,6 @@ A full-stack crime intelligence system for law enforcement officers to track inc
 
 <hr>
 
-<div align="center">
-
-![](./assets/trophy.svg)
-
-</div>
+<p align="center">
+  <img src="./assets/trophy.svg" alt="Trophies" />
+</p>
